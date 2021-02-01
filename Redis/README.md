@@ -1,4 +1,4 @@
 <p align="center">
-    <img src="https://github.com/AryanAhadinia/web_workshop/Redis/public/redis_logo.svg" alt="Redis Logo">
+    <img src="https://github.com/AryanAhadinia/web_workshop/Redis/public/redis_logo.svg](https://github.com/AryanAhadinia/web_workshop/blob/redis/Redis/public/redis_logo.svg)" alt="Redis Logo">
 </p>
 
