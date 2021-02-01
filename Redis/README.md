@@ -60,7 +60,7 @@ docker ps
 ```
 </div>
 
-<img src="https://github.com/AryanAhadinia/web_workshop/blob/redis/Redis/public/docker/docker_1.svg" alt="docker_1">
+<img src="https://github.com/AryanAhadinia/web_workshop/blob/redis/Redis/public/docker/docker_1.png" alt="docker_1">
 
 تمام شد! ردیس شما آماده است. میتوانید از طریق دستورات زیر به redis-cli در کامندلاین دسترسی پیدا کنید.
 
@@ -76,7 +76,7 @@ redis-cli
 
 4. میتوانید از دستور `ping` برای بررسی وجود اتصال مناسب استفاده کنید. در صورتی که اتصال برقرار باشد پاسخ `PONG` دریافت خواهد شد.
 
-<img src="https://github.com/AryanAhadinia/web_workshop/blob/redis/Redis/public/docker/docker_2.svg" alt="docker_2">
+<img src="https://github.com/AryanAhadinia/web_workshop/blob/redis/Redis/public/docker/docker_2.png" alt="docker_2">
 
 ##پله پله تا دستور های ردیس
 
