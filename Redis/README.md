@@ -7,7 +7,7 @@
     <br/>
     ارائه دهنده درس: جناب آقای امید جعفری نژاد
     <br/>
-    نویسندگان: آرین احدی نیا، محمد جعفری، پوریا ممتاز اصفهانی
+    نویسندگان: آرین احدی نیا
 </p>
 
 <div dir="rtl">
@@ -79,7 +79,7 @@ redis-cli
 
 <img src="https://github.com/AryanAhadinia/web_workshop/blob/redis/Redis/public/docker/docker_2.png" alt="docker_2">
 
-##پله پله تا دستور های ردیس 
+## پله پله تا دستور های ردیس 
 
 برای شروع، میتوانیم از دستور زیر، برای ذخییره مقدار "fido" در کلید "server:name" استفاده کنیم.
 
