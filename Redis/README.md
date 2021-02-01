@@ -260,6 +260,16 @@ redis-cli
 
 <img src="https://github.com/AryanAhadinia/web_workshop/blob/redis/Redis/public/docker/docker_2.png" alt="docker_2">
 
+5. ممکن است که به هر دلیلی بخواهید ردیس با فایل کانفیگ دلخواه شما اجرا شود. این دلایل میتوانند دلایل امنیتی باشند که در مرحله 7 و 8 نصب در لینوکس توضیح دادیم.
+برای اجرای ردیس با فایل کانفیگ دلخواه، کافی است ردیس را با دستور زیر اجرا کنید.
+
+<div dir="ltr">
+
+```
+sudo docker run --name my-first-redis -v /myfirstredis/redis.conf:/path/to/redis/redis.conf -d redis
+```
+</div>
+
 ### نصب در ویندوز
 
 
